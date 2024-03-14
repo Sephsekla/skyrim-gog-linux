@@ -23,4 +23,10 @@
 - You're now done! Boot up MO2, setup your mods and profiles and play the game. Happy modding!
 - I haven't successfully got downloads from the Nexus working yet, this may be doable if you use a browser inside the Bottle, but for now you'll need to download mods manually and install them in MO2 from their archives.
 
+## Issues and Contributing
+
+This guide is very much a hobby project used to track my own setup, so I can't guarantee any level of support.
+
+That being said, if you have suggestions, improvements or questions, feel free to open an issue at https://github.com/Sephsekla/skyrim-gog-linux/issues.
+
 [^1]: If you do manage to get it working, please do let me know!
