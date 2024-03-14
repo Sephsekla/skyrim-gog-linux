@@ -27,6 +27,6 @@
 
 This guide is very much a hobby project used to track my own setup, so I can't guarantee any level of support.
 
-That being said, if you have suggestions, improvements or questions, feel free to open an issue at [https://github.com/Sephsekla/skyrim-gog-linux/issues](https://github.com/Sephsekla/skyrim-gog-linux/issues.).
+That being said, if you have suggestions, improvements or questions, feel free to open an issue at [https://github.com/Sephsekla/skyrim-gog-linux/issues](https://github.com/Sephsekla/skyrim-gog-linux/issues).
 
 [^1]: If you do manage to get it working, please do let me know!
